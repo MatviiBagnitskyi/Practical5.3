@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    text-decoration: none;
+}
+.container{
+    max-width: 1920px;
+    max-height: 1080px;
+    width: 2017px;
+    height: 1280px;
+    background-image: url(../prakt5.3/img/a0JlR2FQ.jpg);
+    background-repeat:no-repeat ;
+}
+.box_container{
+    padding: 6.89% 0% 6.89% 0%;
+}
+.title_function{
+    border-radius: 15px 15px 0px 0px;
+    text-align: center;
+    width: 720px;    
+    background-color: rgb(38, 50, 106);
+    color: white;
+}
+.list_box_function{
+    list-style: none;
+    padding: 1% 0% 1% 0%;
+    max-width: 720px;
+    max-height: 250px;
+    background-color: rgb(37, 128, 160);
+}
+.list_function{
+    width: 90%;
+    padding-left: 10px;
+    font-size: 22px;
+    background-color: white;
+    line-height: 38px;
+    border: 1px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.list_function:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.title_const{   
+    text-align: center;
+    width: 720px;
+    background-color: rgb(38, 50, 106);
+    color: white;
+}
+.list_box_const{
+    list-style: none;
+    padding: 1% 0% 1% 0%;
+    max-width: 720px;
+    max-height: 350px;
+    background-color: rgb(20, 119, 146);
+}
+.list_const{
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    font-size: 22px;
+    background-color: white;
+    line-height: 35px;
+    cursor: pointer;
+}
+.list_const:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.title_rand{
+    text-align: center;
+    width: 720px;    
+    background-color: rgb(38, 50, 106);
+    color: white;
+}
+.rand_box{
+    list-style: none;
+    max-width: 720px;
+    max-height: 80px;
+    background-color: rgb(37, 128, 160);
+    border-radius: 0px 0px 15px 15px;
+    padding: 1% 0% 1% 0%;
+}
+.rand_text{
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    font-weight: bold ;
+    font-size: 18px;
+    background-color: white;
+    line-height: 35px;
+    cursor: pointer;
+}
+.rand_text:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
